@@ -29,7 +29,7 @@ export function AboutSection() {
               href="mailto:marlizebustamante@gmail.com"
               className="text-gray-700 dark:text-gray-300 hover:text-purple-500 dark:hover:text-purple-400 font-medium"
             >
-              Email
+              Marlizebustamante@gmail.com
             </a>
           </div>
 
