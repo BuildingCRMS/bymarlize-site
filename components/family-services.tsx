@@ -42,7 +42,7 @@ export function FamilyServices() {
     </li>
     <li className="flex items-start">
       <span className="text-primary-500 mr-2">✔</span>
-      <span className="text-gray-700 dark:text-gray-300">Feeding, walking & companionship routines</span>
+      <span className="text-gray-700 dark:text-gray-300">Feeding, walking, & companionship routines</span>
     </li>
     <li className="flex items-start">
       <span className="text-primary-500 mr-2">✔</span>
