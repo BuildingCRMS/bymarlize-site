@@ -1,4 +1,4 @@
-import { Baby, Home, Package, Mail } from "lucide-react"
+import { Baby, Home, Package, Mail, Dog } from "lucide-react"
 
 export function FamilyServices() {
   return (
@@ -31,8 +31,8 @@ export function FamilyServices() {
 
           {/* Pet Care Services */}
 <div className="service-card hover:border-primary-300 hover:shadow-md transition-all duration-300">
-  {/* You may want to use a pet-related icon here. For now, reusing Baby or Home, or add a suitable one from lucide-react if available. */}
-  <Home className="service-icon" />
+  {/* Use the Dog icon from lucide-react */}
+  <Dog className="service-icon" />
   <h3 className="text-xl font-semibold mb-2 text-gray-900 dark:text-white">Pet Care Services</h3>
   <p className="text-sm text-gray-500 dark:text-gray-400 mb-4">Travel & Overnight Pet Assistant – Starting at $65/night</p>
   <ul className="space-y-3">
