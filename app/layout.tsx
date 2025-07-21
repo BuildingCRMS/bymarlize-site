@@ -12,7 +12,10 @@ const raleway = Raleway({
 export const metadata: Metadata = {
   title: "ByMarlize | Property Management & Support Services",
   description: "Reliable Support for Property Owners, Professionals & Families",
-    generator: 'v0.dev'
+  generator: 'v0.dev',
+  icons: {
+    icon: '/images/MARLIZE PHOTO SQUARE.PNG',
+  },
 }
 
 export default function RootLayout({
